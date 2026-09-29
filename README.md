@@ -71,32 +71,36 @@ The major objectives of this workshop are:
 - 🌐 Web Browser
 - 🖥️ Command Line / Terminal
 
----
-
-# 📂 Repository Structure
+--- 📁 Repository Structure
 
 ```text
 Second-Year-Sem3_412/
 │
-├── 📁 ASSIGNMENTS/
+├── 📂 ASSIGNMENTS/
 │   ├── Assignment1.js
 │   ├── Assignment2.js
-│   └── Assignment3.js
+│   ├── Assignment3.js
+│   └── 📂 Assignment4.js/
+│       ├── App.jsx
+│       ├── Frontend.jsx
+│       ├── package.json
+│       ├── package-lock.json
+│       └── postman.js
 │
-├── 📁 BACKEND/
-│   ├── 📁 LAB 1/
-│   ├── 📁 LAB 2/
-│   ├── 📁 LAB 3/
-│   └── 📁 LAB 5/
+├── 📂 BACKEND/
+│   ├── 📂 LAB 1/
+│   ├── 📂 LAB 2/
+│   ├── 📂 LAB 3/
+│   ├── 📂 LAB 4/
+│   └── 📂 LAB 5/
 │
-├── 📁 FRONTEND/
-│   ├── 📁 public/
-│   ├── 📁 src/
+├── 📂 FRONTEND/
+│   ├── 📂 public/
+│   ├── 📂 src/
 │   ├── index.html
 │   ├── package.json
-│   └── vite.config.js
+│   └── package-lock.json
 │
 └── 📄 README.md
-
 
 
